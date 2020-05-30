@@ -6,7 +6,7 @@
       <artifactId>open-capacity-platform</artifactId>
       <relativePath>../open-capacity-platform/pom.xml</relativePath>
       <version>2.0.1</version>
-  </parent>s
+  </parent>
 
 
   <artifactId>inner-intergration</artifactId>
